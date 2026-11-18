@@ -37,3 +37,6 @@ Developed an interactive Excel dashboard using Pivot Tables, Pivot Charts, KPI C
 - Data Analysis
 - Data Visualization
 - Dashboard Development
+
+## Dashboard Preview
+![IRCTC Dashboard] (IRCTC Dasboard.png)
